@@ -1,6 +1,5 @@
 import sys
-#from queue import SimpleQueue, PriorityQueue
-from MyQueue import PriorityQueue
+from queue import SimpleQueue, PriorityQueue
 from math import sqrt
 
 class cell:
